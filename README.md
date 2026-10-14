@@ -11,6 +11,7 @@ I am starting this journey in November 2026, after my first-semester mid-examina
 ## 🧭 Mission Control
 
 - **[Internship Role Map & Eligibility](./13-Internships/ROLE-MAP-AND-ELIGIBILITY.md):** role families to target, skills expected, eligibility checks and application safety.
+- **[Initial Market Scan — 14 October 2026](./13-Internships/INITIAL-MARKET-SCAN-2026-10-14.md):** current sample of technical internship listings, year-eligibility findings, repeated skills and changes to our learning priorities.
 - **[Prioritized Skill Matrix](./13-Internships/preparation/SKILL-MATRIX.md):** four priority categories, must-learn topics, topics to defer and estimated study hours.
 - **[Chronological Learning Order](./17-Progress/CHRONOLOGICAL-LEARNING-ORDER.md):** exact skill-by-skill sequence, date ranges, project deliverables and parallel DSA/application tracks.
 - **[November 2026–March 2027 Roadmap](./17-Progress/INTERNSHIP-ROADMAP-NOV-2026-MAR-2027.md):** week-by-week learning plan, project milestones, application timing and obstacle protocol.
