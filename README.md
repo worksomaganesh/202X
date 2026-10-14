@@ -15,6 +15,7 @@ I am starting this journey in November 2026, after my first-semester mid-examina
 - **[Market Research Baseline — 14 October 2026](./13-Internships/MARKET-RESEARCH-BASELINE-2026-10-14.md):** expanded 56-lead inventory analysis, role-family priorities, official eligibility gates, and pre-November checklist.
 - **[Market Research Leads CSV — 14 October 2026](./13-Internships/market-research-leads-2026-10-14.csv):** sortable lead tracker with source links, advertised terms, deadlines, first-year eligibility confidence, and verification notes.
 - **[Prioritized Skill Matrix](./13-Internships/preparation/SKILL-MATRIX.md):** four priority categories, must-learn topics, topics to defer and estimated study hours.
+- **[November 1 Execution Handoff](./17-Progress/NOV-1-EXECUTION-HANDOFF.md):** pre-November checklist, rules for the learning sprint, and a copy-ready prompt for starting a fresh chat on 1 November.
 - **[Chronological Learning Order](./17-Progress/CHRONOLOGICAL-LEARNING-ORDER.md):** exact skill-by-skill sequence, date ranges, project deliverables and parallel DSA/application tracks.
 - **[November 2026–March 2027 Roadmap](./17-Progress/INTERNSHIP-ROADMAP-NOV-2026-MAR-2027.md):** week-by-week learning plan, project milestones, application timing and obstacle protocol.
 - **[Application Tracker Template](./13-Internships/applications/2027/APPLICATION-TRACKER-TEMPLATE.md):** track eligible openings, applications, assessments, interviews and follow-ups. Keep private personal data out of public commits.
