@@ -14,6 +14,26 @@
 5. Apply to legitimate Python/automation, data, AI application, QA/testing and selected SWE roles. ML internships are a stretch category; big-tech roles are worthwhile only when eligibility fits.
 6. Keep March as the final buffer for setbacks, interviews and follow-ups. An internship is not guaranteed, so review response data weekly and change strategy.
 
+## Two-track operating model
+
+- **Track A — AI/ML specialization:** Python, SQL, statistics, NumPy/pandas, EDA, model evaluation, ML, later deep learning/data engineering/AI systems, and Kaggle competitions.
+- **Track B — general engineering:** Git, debugging, DSA, software design, testing, Linux, databases, APIs, communication and interviews.
+- Python, SQL, Git, debugging and testing are shared foundations. Keep DSA in its existing weekly parallel slot.
+- Use AI agents as bounded assistants for explanation, candidate code, debugging and review. The learner still runs code, checks evidence, understands the result and owns the final decision.
+
+### Kaggle lane (parallel; protect the internship deadline)
+
+| Window | Kaggle objective | Evidence |
+|---|---|---|
+| November | Account/profile, rules/metric/submission orientation; Python learning first | Rules/metric notes; no pressure to submit or earn a medal |
+| Early–mid December | Connect pandas, SQL, EDA and statistics to the beginner dataset | Data findings and a clear target/metric explanation |
+| Late December–early January | First baseline, suitable local validation, valid submission format | Baseline score and a checked submission, if permitted |
+| January | Controlled experiments, error analysis, leakage checks and staged agent use | Experiment log with hypotheses, measured results and decisions |
+| Late January–February | Reproduce and document the strongest solution; practise interview explanations | Notebook/write-up, reproducible instructions, limitations |
+| February–March | Optional next competition only if core applications, DSA and projects stay on track | Verifiable outcomes, no fabricated achievement claims |
+
+Follow [the Kaggle Learning Lab](../19-Kaggle/README.md) and its playbook. The Titanic competition is a suggested first learning environment, not a mandatory deadline. Before using a dataset, external model, AI tool, internet access or API, check the exact competition rules. Medals, certificates, progression tiers and rankings are not guaranteed and must not be treated as internship prerequisites.
+
 ## Week-by-week schedule
 
 The weekly blocks are targets, not claims of completed work. College assignments, illness, exams or family obligations may require moving work into a buffer week.
