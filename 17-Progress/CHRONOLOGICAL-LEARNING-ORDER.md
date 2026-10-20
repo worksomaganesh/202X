@@ -31,6 +31,20 @@ The sequence is narrower than the full repository. Folder names are a long-term 
 
 **In parallel from Week 2:** practise DSA for about 2–3 hours/week and keep checking/applying to eligible internships as soon as you have credible evidence. Do not postpone applications until every item is finished.
 
+## Parallel lane A — Kaggle applied ML (starts gently in November)
+
+Kaggle does **not** replace the core order above. Do not try to complete a complex competition before Python and data basics are ready.
+
+- **1–14 November:** create/finish the profile, read the beginner Titanic competition description/rules/metric/sample submission, and learn how Kaggle notebooks and submissions work. Keep most hands-on time on Python and Git. No score/medal deadline.
+- **15–30 November:** continue Python, functions, files and debugging. Follow relevant Kaggle Learn Python lessons and practise on tiny datasets only when the concepts are understandable.
+- **1–19 December:** as pandas/SQL/EDA are introduced, practise reading CSVs, inspecting dtypes/missing values, grouping, charts and writing findings. Review Titanic data but do not rush into complex model tuning.
+- **20 December–2 January:** once train/validation split, target/features and a baseline are understood, complete the first beginner competition workflow: rules → EDA → valid baseline → local validation → submission schema check → submission if allowed.
+- **3–23 January:** run controlled model/feature experiments, use agents for bounded hypotheses/reviews, log every result, inspect errors and check leakage.
+- **24 January–February:** write up the strongest solution, verify the final notebook from a clean run and connect the experience to interview answers. A second competition is optional only if the first is understood and applications/DSA remain on track.
+- **February–March:** continue only where it improves learning or role relevance; keep internships, coding interviews and project polish moving.
+
+Use [the Kaggle Learning Lab](../19-Kaggle/README.md), [Competition Playbook](../19-Kaggle/COMPETITION-PLAYBOOK.md), [Agent Orchestration](../19-Kaggle/AGENT-ORCHESTRATION.md) and the experiment template as the source of truth. These are target windows, not promises of competition completion, rank or medal.
+
 ## Chronological schedule
 
 ### Phase 0 — Setup only
@@ -234,6 +248,10 @@ Other learning: HTTP, methods/status codes, JSON request/response, SQL parameter
 6. Continue learning only the gaps that are blocking real applications/interviews.
 
 **Deadline:** 31 March 2027. An offer cannot be guaranteed; the plan aims to maximise preparation and leave room for obstacles.
+
+## Parallel lane B — general engineering ability
+
+Git, debugging, testing, DSA, Linux, SQL/databases, APIs, software design, communication and interview preparation remain active alongside ML. Python and SQL support both tracks. Do not let agent-generated notebooks substitute for writing and reviewing code yourself.
 
 ## Parallel tracks — do not leave these until the end
 
