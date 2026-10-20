@@ -17,6 +17,18 @@ This is the compact source-of-truth handoff for starting a fresh chat on 1 Novem
 - March 31, 2027 is the deadline. Be portfolio/application-ready around **18 January–7 February** if possible; reserve February–March for applications, assessments, interviews, blockers and targeted skill gaps. Do not postpone every application until the full syllabus is completed.
 - Exams come first until the end of October. No heavy pre-study sprint before November 1.
 
+## Career-learning tracks
+
+Run two tracks together without letting either become a distraction from the internship target:
+
+- **AI/ML specialization:** Python → SQL/data handling → statistics → EDA → model evaluation → ML → later deep learning/data engineering/AI systems → Kaggle competitions.
+- **General engineering:** Git → debugging/testing → DSA → Linux → databases/APIs → software design → communication/interview preparation.
+- Python, SQL, Git, debugging and testing serve both tracks. Learn concepts through small implementations, then use them in projects and competitions.
+
+Kaggle is an applied-learning lane, not a replacement for the core sequence. November focuses on fundamentals and competition rules/metric orientation; the first full beginner competition workflow begins only after the learner can inspect data and understand a baseline/validation split. Use the [Kaggle Learning Lab](../19-Kaggle/README.md), [Competition Playbook](../19-Kaggle/COMPETITION-PLAYBOOK.md), [Agent Orchestration](../19-Kaggle/AGENT-ORCHESTRATION.md) and experiment log template.
+
+Agent rule: agents may propose or implement bounded changes, but the learner must run/review code, verify validation and leakage checks, log actual results, and explain the accepted change. Never claim a rank, medal, certificate or score until verified. Do not wait for a Kaggle achievement before applying to eligible internships.
+
 ## 2. Source-of-truth files
 
 1. [Chronological Learning Order](./CHRONOLOGICAL-LEARNING-ORDER.md) — exact learning sequence, weekly dates, projects and parallel tracks.
@@ -97,7 +109,7 @@ At the end of the first session, update the daily log with:
 ## 7. Fresh-chat starter prompt (copy on 1 November)
 
 > Continue my internship mission using this source-of-truth repository: https://github.com/worksomaganesh/202x  
-> First read `17-Progress/NOV-1-EXECUTION-HANDOFF.md`, `17-Progress/CHRONOLOGICAL-LEARNING-ORDER.md`, `17-Progress/INTERNSHIP-ROADMAP-NOV-2026-MAR-2027.md`, and `13-Internships/preparation/SKILL-MATRIX.md`. Do not recreate or broaden the roadmap without a clear reason. Today is my execution start after first-semester mid-exams. Teach me from beginner level in Tenglish (Telugu-English mix), one manageable session at a time. Give explanations, small exercises, expected behaviour/test cases and debugging guidance; let me attempt solutions before revealing them. Help me write my own code into the repository's empty, topic-named starter files and document real progress honestly. My goal is one genuine first-year technical internship by 31 March 2027, preferably paid, not a full-time job. Weekly capacity is around 20–22 hours. Follow the chronological order, protect the project milestones and application buffer, and refresh current internship openings/first-year eligibility when we begin applying. Start with Week 1, Session 1, not another planning exercise.
+> First read `17-Progress/NOV-1-EXECUTION-HANDOFF.md`, `17-Progress/CHRONOLOGICAL-LEARNING-ORDER.md`, `17-Progress/INTERNSHIP-ROADMAP-NOV-2026-MAR-2027.md`, `13-Internships/preparation/SKILL-MATRIX.md`, and `19-Kaggle/README.md` plus `19-Kaggle/COMPETITION-PLAYBOOK.md`. Do not recreate or broaden the roadmap without a clear reason. Today is my execution start after first-semester mid-exams. Teach me from beginner level in Tenglish (Telugu-English mix), one manageable session at a time. Give explanations, small exercises, expected behaviour/test cases and debugging guidance; let me attempt solutions before revealing them. Help me write my own code into the repository's empty, topic-named starter files and document real progress honestly. My goal is one genuine first-year technical internship by 31 March 2027, preferably paid, not a full-time job. Weekly capacity is around 20–22 hours. Follow the chronological order and two parallel tracks (AI/ML specialization + general engineering). Use Kaggle as applied learning, not rote submission chasing: start with fundamentals, then baseline, valid validation, controlled experiments and a learning check for each accepted agent suggestion. Protect project milestones and the application buffer; refresh current internship openings/first-year eligibility when we begin applying. Start with Week 1, Session 1, not another planning exercise.
 
 ## 8. What “success” means
 
