@@ -20,6 +20,15 @@ I am starting this journey in November 2026, after my first-semester mid-examina
 - **[November 2026–March 2027 Roadmap](./17-Progress/INTERNSHIP-ROADMAP-NOV-2026-MAR-2027.md):** week-by-week learning plan, project milestones, application timing and obstacle protocol.
 - **[Application Tracker Template](./13-Internships/applications/2027/APPLICATION-TRACKER-TEMPLATE.md):** track eligible openings, applications, assessments, interviews and follow-ups. Keep private personal data out of public commits.
 
+## 🧪 Applied ML & Kaggle
+
+- **[Kaggle Learning Lab](./19-Kaggle/README.md):** beginner-first competition strategy that connects Python/pandas/statistics/ML concepts to real tasks.
+- **[Competition Playbook](./19-Kaggle/COMPETITION-PLAYBOOK.md):** rules and metric checks, baseline-first workflow, validation, leakage checks, submission verification and write-ups.
+- **[AI-Agent Orchestration](./19-Kaggle/AGENT-ORCHESTRATION.md):** staged agent roles, bounded task contracts, human review gates and learning checks.
+- **[Experiment Log Template](./19-Kaggle/EXPERIMENT-LOG-TEMPLATE.md) and [Competition Tracker](./19-Kaggle/COMPETITION-TRACKER-TEMPLATE.csv):** preserve actual results, lessons, official achievements and links.
+
+Kaggle is a **parallel applied-learning lane**, not a reason to skip Python, SQL, statistics, DSA or software engineering. November is for fundamentals and competition orientation; a first complete competition starts only when the required concepts are ready. Medals, rankings, certificates and Kaggle tiers are aspirational outcomes, never guaranteed milestones. Apply for eligible internships before earning a medal.
+
 ## 🗓️ Milestones
 
 - **November 2026:** Build core programming foundations, research eligible roles, and start documenting progress.
